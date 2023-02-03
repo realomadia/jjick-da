@@ -1,9 +1,26 @@
 <img width="100%" alt="찍다 메인 화면" src="https://user-images.githubusercontent.com/75984011/202119283-ffa74ca2-28f8-45d0-aeeb-13d66703b84a.png">
 
 # 프로젝트 소개
-기사, 산업기사, 기능사 등 다양한 문제 풀이, 결과, 해설 등을 확인하며 시험 합격을 돕는 프로젝트.
+
+사용자의 문제은행 유형의 시험에 합격률을 높이기 위해, 개발된 서비스입니다.
+
+프로젝트에 대한 자세한 내용은 [WIKI](https://github.com/132262B/jjick-da/wiki)를 통해 확인하실 수 있습니다.
+
+
+__프로젝트 기간 :__ 2022년 10월 15일 ~ 2022년 12월 13일 (종료)
+
+# Wiki
+
+[0. Wiki Main](https://github.com/132262B/jjick-da/wiki) <br>
+[1. API Doc](https://github.com/132262B/jjick-da/wiki/API-DOC) <br>
+[2. Architecture](https://github.com/132262B/jjick-da/wiki/Architecture) <br>
+[3. ERD](https://github.com/132262B/jjick-da/wiki/ERD) <br>
+[4. FlowDiagram](https://github.com/132262B/jjick-da/wiki/FlowDiagram) <br>
+[5. 개발된 내용 보기(GIF)](https://github.com/132262B/jjick-da/wiki/%EA%B0%9C%EB%B0%9C%EB%90%9C-%EB%82%B4%EC%9A%A9-%EB%B3%B4%EA%B8%B0(GIF)) <br>
+[6. 화면 설계서](https://github.com/132262B/jjick-da/wiki/%ED%99%94%EB%A9%B4-%EC%84%A4%EA%B3%84%EC%84%9C)
 
 # 팀원 소개
+
 <table>
     <tr>
         <td>
@@ -22,13 +39,14 @@
         <td>황정민(realomadia)</td>
     </tr>
     <tr>
-        <td>공통모듈개발,PM</td>
+        <td>공통모듈개발,PL</td>
         <td>사용자 페이지 개발</td>
         <td>어드민 페이지 개발</td>
     </tr>
 </table>
 
 # 기술 스텍
+
 <table>
     <tr>
         <td rowspan="2"> BackEnd </td>
@@ -100,6 +118,23 @@
         <td>swagger</td>
     </tr>
      <tr>
+        <td rowspan="2">Test</td>
+        <td>
+            <img width="100px" alt="junit5_icon" src="https://user-images.githubusercontent.com/75984011/207229886-0b9815e7-8545-4547-8cbb-b7e57b725ebd.png">
+        </td>
+        <td>
+            <img width="100px" alt="mockito_icon" src="https://user-images.githubusercontent.com/75984011/207229890-1db319ed-7599-4dd3-befe-8d247e9b4cdd.png">
+        </td>
+        <td>
+            <img width="100px" alt="jacoco_icon" src="https://user-images.githubusercontent.com/75984011/207229877-74e39e50-223d-43ba-a16d-98cd2c0b760b.png">
+        </td>
+    </tr>
+    <tr>
+        <td>junit5</td>
+        <td>mockito</td>
+        <td>jacoco</td>
+    </tr>
+     <tr>
         <td rowspan="2">Tools</td>
         <td>
            <img width="100px" alt="IntelliJ_Icon" src="https://user-images.githubusercontent.com/75984011/202136589-9aa9d6d3-0bf4-4b34-bace-517929328145.png">
@@ -117,7 +152,9 @@
 # 아키텍처
 
 ## 서버 구성도
-<img width="100%" alt="tomcat" src="https://user-images.githubusercontent.com/75984011/202645481-196874ff-6e38-4574-a1a2-44c5d9518190.png">
+
+<img width="100%" alt="tomcat" src="https://user-images.githubusercontent.com/75984011/205581791-8ac2f7de-030e-4d33-8b20-1a29a5bf7adb.jpg">
 
 ## ERD
+
 <img width="100%" alt="tomcat" src="https://user-images.githubusercontent.com/75984011/204812461-b4f56005-0d40-4882-adda-3cd6a1e2e67d.png">
