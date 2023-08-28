@@ -10,6 +10,8 @@
 __프로젝트 기간 :__ 2022년 10월 15일 ~ 2022년 12월 13일 (종료)
 
 # Wiki
+http://hhun6840.cafe24.com
+
 
 [0. Wiki Main](https://github.com/132262B/jjick-da/wiki) <br>
 [1. API Doc](https://github.com/132262B/jjick-da/wiki/API-DOC) <br>
